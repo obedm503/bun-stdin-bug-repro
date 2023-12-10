@@ -1,5 +1,9 @@
 # bun-stdin-bug-repro
 
+Reported in [#7500](https://github.com/oven-sh/bun/issues/7500).
+Fixed in [#7535](https://github.com/oven-sh/bun/pull/7535).
+
+
 To install dependencies:
 
 ```bash
